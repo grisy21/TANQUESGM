@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 06b38fa3f5188f6419ab17bc1669c18c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_Shell: {fileID: 2259391379585365028, guid: 65806d069d5fed4429e99e2c1a686100,
+      type: 3}
+  - m_FireTransform: {instanceID: 0}
+  - m_AimSlider: {instanceID: 0}
+  - m_ShootingAudio: {instanceID: 0}
+  - m_ChargingClip: {instanceID: 0}
+  - m_FireClip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
